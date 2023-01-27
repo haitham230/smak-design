@@ -557,7 +557,7 @@ header nav ul li:nth-child(6) a::before{
 }
 .portfolio .content .image img{
   max-width: 100%;
-  height: 100%;
+  
 }
 
 @media(max-width: 767px){
@@ -632,7 +632,6 @@ header nav ul li:nth-child(6) a::before{
 }
 .portfolio .gallary img{
   max-width: 100%;
-  height: 100%;
   transition: var(--main-transition);
   -webkit-transition: var(--main-transition);
   -moz-transition: var(--main-transition);
